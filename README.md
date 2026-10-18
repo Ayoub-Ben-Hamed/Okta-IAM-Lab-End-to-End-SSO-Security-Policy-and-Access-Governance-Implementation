@@ -96,3 +96,5 @@ All original screenshots from the deployment have been organized by phase with d
 - `images/04-saml/`: SAML configuration, assertion testing, and troubleshooting captures.
 - `images/05-security-policies/`: Authenticator enrollment, session rules, and network zones.
 - `images/07-monitoring-logs/`: Audit log traces, failure queries, and bookmark configurations.
+
+Feel free to navigate across all Phases (each phase has exercices)
